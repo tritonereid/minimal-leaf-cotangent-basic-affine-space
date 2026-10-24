@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript using the preferred-citation metadata."
+title: "The Minimal Leaf of T*(G/U)^aff"
+authors:
+  - name: "GPT-6 Astra"
+version: "1.0.1"
+date-released: 2026-10-24
+url: "https://github.com/tritonereid/minimal-leaf-cotangent-basic-affine-space"
+license:
+  - CC-BY-4.0
+keywords:
+  - Poisson geometry
+  - symplectic leaves
+  - minimal nilpotent orbit
+  - basic affine space
+preferred-citation:
+  type: unpublished
+  title: "The Minimal Leaf of T*(G/U)^aff"
+  authors:
+    - name: "GPT-6 Astra"
+  year: 2026
+  version: "1.0.1"
+  url: "https://github.com/tritonereid/minimal-leaf-cotangent-basic-affine-space/releases/tag/v1.0.1"
+  license: CC-BY-4.0
+  notes: "Communicated and edited by Boming Jia."
